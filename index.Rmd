@@ -1,0 +1,16 @@
+---
+title: "Home"
+---
+
+
+
+#This is my Personal Website.
+
+In the upper right corner is my profile, email and the github link.
+
+
+My favorite website is [NBA](http://www.nba.com) since I love to watch NBA games every night. AS for my most favorite basketball stars, it is him:
+
+<img src="./curry.jpg" style="width:75%">
+
+Yeah, he is Stephen Curry.

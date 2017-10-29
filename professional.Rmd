@@ -1,0 +1,8 @@
+---
+title: "Professional"
+---
+
+I have not had a formal work right now, but I believe I will in the future! Maybe becoming a data scientist?
+
+<img src="./programmer.jpg" style="width:75%">
+
